@@ -1,11 +1,11 @@
 ## music-app
 
 ## API
-m-api contains the API code
-It's also hosted on heroku: https://hpm-api.herokuapp.com/v1/v1/album?artist=lady%20gaga
+- **m-api** contains the API code
+- It's also hosted on heroku: https://hpm-api.herokuapp.com/v1/v1/album?artist=lady%20gaga
 
 ## UI
-music-ui contains the frontend app.
+**music-ui** contains the frontend app.
 
 ## running the code
 
