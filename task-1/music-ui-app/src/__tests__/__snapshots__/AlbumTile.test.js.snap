@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AlbumTile.test.js has the expected html structure 1`] = `
+<div
+  class="album-tile"
+>
+  <figure>
+    <img
+      alt="Demo album name"
+      src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ae/4c/d4/ae4cd42a-80a9-d950-16f5-36f01a9e1881/source/100x100bb.jpg"
+    />
+  </figure>
+   
+  <h5
+    class="alubm-artist"
+  >
+    Demo album name
+  </h5>
+</div>
+`;

@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Albums.test.js has the expected html structure 1`] = `
+<div
+  class="card text-center m-3"
+>
+  <div
+    class="search-bar"
+  >
+    <input
+      class="t-search"
+      maxlength="256"
+      placeholder="Search album"
+      type="search"
+    />
+  </div>
+   
+  <p
+    class="loading"
+  >
+    Loading...
+  </p>
+   
+  <div
+    class="card-body"
+  />
+</div>
+`;

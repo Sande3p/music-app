@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Albums.test.js has the expected html structure 1`] = `
+<div>
+  <header
+    class="main-header"
+  >
+    <h3>
+      Muisc Library
+    </h3>
+  </header>
+   
+  <main
+    class="page"
+  >
+    <albums-stub />
+  </main>
+</div>
+`;
